@@ -21,4 +21,4 @@ In this code, `setup()` and `loop()` are the main functions where the programs a
 ## Pictures 
 > Here are some pictures of the ***room-temperature-sensor*** in action.
 
-![Image1, the working prototype](/assets/images/tux.png)
+![Image1, the working prototype](/image(1).png)
