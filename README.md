@@ -21,4 +21,8 @@ In this code, `setup()` and `loop()` are the main functions where the programs a
 ## Pictures 
 > Here are some pictures of the ***room-temperature-sensor*** in action.
 
-![Image1, the working prototype](/image(1).png)
+![Image1, the working prototype](https://github.com/rajjyarohan10/room-temperature-sensor/blob/main/image%20(1).png)
+fig 1: Showing the wiring of the breadboard with the LCD.
+
+![Image2, the working prototype](https://github.com/rajjyarohan10/room-temperature-sensor/blob/main/image%20(2).png)
+fig 2: Temperature detection.
